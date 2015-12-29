@@ -1,0 +1,26 @@
+{
+  "name": "tips",
+  "version": "1.0.0",
+  "description": "to avail all typesof tips",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+  ,
+  "dependencies":{
+      "express":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshyo/tips.git"
+  },
+  "keywords": [
+    "tips"
+  ],
+  "author": "harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshyo/tips/issues"
+  },
+  "homepage": "https://github.com/harshyo/tips#readme"
+}
