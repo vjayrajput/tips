@@ -1,4 +1,5 @@
-{
+[
+ {
   "status": "success",
   "data": [
      {
@@ -22,14 +23,14 @@
     ]
   },
   {
-    "category_name": "Become A Responsible Adult",
+    "category_name": "Build muscle and transform your physique",
     "category_image": "http://media.mensxp.com/media/content/2013/May/1369379532_73566.jpg",
     "category_read_more": "http://www.menshealth.com/fitness/10-muscle-building-tips",
     "tips": ["Maximize muscle building  -  The more protein your body stores—in a process called protein synthesis—the larger your muscles grow. But your body is constantly draining its protein reserves for other uses—making hormones, for instance. The result is less protein available for muscle building. To counteract that, you need to 'build and store new proteins faster than your body breaks down old proteins' says Michael Houston, Ph.D., a professor of nutrition at Virginia Tech University.","Eat meat -  Shoot for about 1 gram of protein per pound of body weight, which is roughly the maximum amount your body can use in a day, according to a landmark study in the Journal of Applied Physiology. (For example, a 160-pound man should consume 160 grams of protein a day—the amount he'd get from an 8-ounce chicken breast, 1 cup of cottage cheese, a roast-beef sandwich, two eggs, a glass of milk, and 2 ounces of peanuts.) Split the rest of your daily calories equally between carbohydrates and fats.","Eat more - In addition to adequate protein, you need more calories. Use the following formula to calculate the number you need to take in daily to gain 1 pound a week. (Give yourself 2 weeks for results to show up on the bathroom scale. If you haven't gained by then, increase your calories by 500 a day.)","eSom useful Info    A. Your weight in pounds: _____   B. Multiply A by 12 to get your basic calorie needs: _____    C. Multiply B by 1.6 to estimate your resting metabolic rate (calorie burn without factoring in exercise): _____   D. Strength training: Multiply the number of minutes you lift weights per week by 5: _____   E. Aerobic training: Multiply the number of minutes per week that you run, cycle, and play sports by 8: _____   F. Add D and E, and divide by 7: _____  G. Add C and F to get your daily calorie needs: _____   H. Add 500 to G: _____. This is your estimated daily calorie needs to gain 1 pound a week.","Work your biggest muscles -  If you're a beginner, just about any workout will be intense enough to increase protein synthesis. But if you've been lifting for a while, you'll build the most muscle quickest if you focus on the large muscle groups, like the chest, back, and legs. Add squats, deadlifts, pullups, bent-over rows, bench presses, dips, and military presses to your workout. Do two or three sets of eight to 12 repetitions, with about 60 seconds' rest between sets."," Lift every other day - Do a full-body workout followed by a day of rest. Studies show that a challenging weight workout increases protein synthesis for up to 48 hours immediately after your exercise session. 'Your muscles grow when you're resting, not when you're working out,' says Michael Mejia, C.S.C.S., Men's Health exercise advisor and a former skinny guy who packed on 40 pounds of muscle using this very program","Down the carbs after your workout - Research shows that you'll rebuild muscle faster on your rest days if you feed your body carbohydrates. 'Post-workout meals with carbs increase your insulin levels,' which, in turn, slows the rate of protein breakdown, says Kalman. Have a banana, a sports drink, a peanut-butter sandwich.","Eat something every 3 hours - If you don't eat often enough, you can limit the rate at which your body builds new proteins,' says Houston. Take the number of calories you need in a day and divide by six. That's roughly the number you should eat at each meal. Make sure you consume some protein—around 20 grams—every 3 hours","Make one snack ice cream. Have a bowl of ice cream (any kind) 2 hours after your workout. According to a study in the American Journal of Clinical Nutrition , this snack triggers a surge of insulin better than most foods do. And that'll put a damper on post-workout protein breakdown.","Have some milk before bed -  Eat a combination of carbohydrates and protein 30 minutes before you go to bed. The calories are more likely to stick with you during sleep and reduce protein breakdown in your muscles, says Kalman. Try a cup of raisin bran with a cup of skim milk or a cup of cottage cheese and a small bowl of fruit. Eat again as soon as you wake up. 'The more diligent you are, the better results you'll get,' says Kalman.","Read more http://www.menshealth.com/fitness/10-muscle-building-tips"
     ]
   },
     {
-      "category_name": "Personality Development Tips",
+      "category_name": "Develop Pleasant Personality",
       "category_image": "http://www.imageconsultinginstitute.com/files/2015/10/NLOCT-5-400x250.jpg",
       "category_read_more": "https://www.urbanpro.com/a/top-10-personality-development-tips#sthash.eHZVcn65.dpuf",
       "tips": [
@@ -48,7 +49,7 @@
       ]
     },
     {
-      "category_name": "Health Tips",
+      "category_name": "Get Healthy life",
       "category_image": "http://www.medibiztv.com/images/news/healthy-weight.jpg",
       "category_read_more": "http://www.drmitraray.com/top-10-healthy-tips/",
       "tips": [
@@ -69,7 +70,7 @@
       ]
     },
     {
-      "category_name": "Interviewing Tips",
+      "category_name": "You've got the interview! now..?",
       "category_image": "http://office.tvarwebu.cz/cmcn/wp-content/uploads/2015/02/iStock_000012303186XSmall-400x250.jpg",
       "category_read_more": "http://career-advice.monster.com/",
       "tips": [
@@ -89,7 +90,7 @@
       ]
     },
     {
-      "category_name": "The Most Important Photography Tips",
+      "category_name": "Do you wish you were a better photographer?",
       "category_image": "http://bestimageshd.info/wp-content/uploads/2015/09/camera-nikon-photography-photo-hd-v6gp2il2q.jpg",
       "category_read_more": "http://www.photographymad.com/pages/view/10-top-photography-composition-rules",
       "tips": [
@@ -108,7 +109,7 @@
       ]
     },
     {
-      "category_name": "Essential Honeymoon Tips",
+      "category_name": "Essential Honeymoon advice",
       "category_image": "http://izhuliu.org/wp-content/uploads/2015/04/honeymoon12.jpg",
       "category_read_more": "http://www.bollywoodshaadis.com/articles/10-romantic-things-every-couple-must-do-on-their-honeymoon-1898",
       "tips": [
@@ -498,9 +499,9 @@
       ]
     },
     {
-      "category_name": "Office Etiquette",
-      "category_image": "http://pad2.whstatic.com/images/thumb/9/92/Take-Care-of-Your-Hair-Step-8-Version-2.jpg/900px-Take-Care-of-Your-Hair-Step-8-Version-2.jpg",
-      "category_read_more": "http://www.wikihow.com/Take-Care-of-Your-Hair",
+      "category_name": "Cyberbullying",
+      "category_image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSkXbZ0nbkld1g51d_AvAzPeBdkjLwYw7CqFGFaT0CJ360iznB_ng",
+      "category_read_more": "http://www.safekids.com/tips-to-stop-cyberbullying/",
       "tips": [
         "Don’t respond. - If someone bullies you, remember that your reaction is usually exactly what the bully wants. It gives him or her power over you. Who wants to empower a bully?",
         "Don’t retaliate. Getting back at the bully turns you into one and reinforces the bully’s behavior. Help avoid a whole cycle of aggression.",
@@ -566,3 +567,5 @@
     }
   ]
 }
+
+]
