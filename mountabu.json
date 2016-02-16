@@ -1,12 +1,10 @@
 {
   "message": "success",
   "data": [
-    [
-      {
-        "name": "sunset point",
-        "url": "http://tourmet.com/wp-content/uploads/2014/07/Sun-Set-Point-Mount-Abu2.jpg"
-      },
-      [
+    {
+      "name": "sunset point",
+      "url": "http://tourmet.com/wp-content/uploads/2014/07/Sun-Set-Point-Mount-Abu2.jpg",
+      "tips": [
         {
           "url": "http://d7ab823tjbf2qywyt3grgq63.wpengine.netdna-cdn.com/wp-content/uploads/2015/10/rollin-into-the-sun-400x400.png",
           "message": "Visit the Sunset Point to watch a beautiful sunset. You can easily get a jeep/car to reach the sunset point, or you can drive your own. One advice: reach early to secure a nice place to view the sunset. If you reach there during sunset, you will not be able to enjoy it properly."
@@ -28,13 +26,11 @@
           "message": "this is a very good place. however, pls note that there is a lot of walking to do..some uphill as well so incase of children or senior citizens with you, you will have to hire local cart pullers which are available in plenty"
         }
       ]
-    ],
-    [
-      {
-        "name": "guru shikhar temple",
-        "url": "http://www.rajasthandirect.com/wp-content/uploads/2013/06/Guru-Shikhar-Mount-Abu.jpg"
-      },
-      [
+    },
+    {
+      "name": "guru shikhar temple",
+      "url": "http://www.rajasthandirect.com/wp-content/uploads/2013/06/Guru-Shikhar-Mount-Abu.jpg",
+      "tips": [
         {
           "url": "http://siliconindia.com/travelcity/travel_images/5G7TiUY9.jpg",
           "message": "If you are a bachelor or a couple, rent a bike and travel Guru Shikhar. The road goes till the temple parking lot. But the main temple is few steps more, You have to climb around 100 steps. Enjoy the serenity of the place and the fresh air."
@@ -56,13 +52,11 @@
           "message": "A very long and difficult trek with breathtaking views will lead you to this spot called guru shikhar. Also has a spiritual side as it is a place where a sage performed penance. Once you reach there all the toil is worth. It has to be experienced because words can't explain everything that u feel... Must go for nature lovers"
         }
       ]
-    ],
-    [
-      {
-        "name": "om shanti bhavan",
-        "url": "http://www.truthofmeditation.com/images/Om%20Shanti%20Bhavan%20Brahamakumaris%20Brahma%20kumaris%20BK%20Centre%20Address%20Mount%20Abu%20Free%20Meditation%20Spiratual%20Course%20Awakening%20with%20brahakumaris%20%20BK%20Shivani%20BK%20Usha%20Dadi.jpg"
-      },
-      [
+    },
+    {
+      "name": "om shanti bhavan",
+      "url": "http://www.truthofmeditation.com/images/Om%20Shanti%20Bhavan%20Brahamakumaris%20Brahma%20kumaris%20BK%20Centre%20Address%20Mount%20Abu%20Free%20Meditation%20Spiratual%20Course%20Awakening%20with%20brahakumaris%20%20BK%20Shivani%20BK%20Usha%20Dadi.jpg",
+      "tips": [
         {
           "url": "http://www.truthofmeditation.com/images/Om%20Shanti%20Bhavan%20Brahamakumaris%20Brahma%20kumaris%20BK%20Centre%20Address%20Mount%20Abu%20Free%20Meditation%20Spiratual%20Course%20Awakening%20with%20brahakumaris%20%20BK%20Shivani%20BK%20Usha%20Dadi.jpg",
           "message": "We went with family t this peaceful place. Though this place is not for youngsters, still they get a very positive vibration as t the spiritual process they depict. Especially the marvellous garden they have maintained and brief lecture they give both at this centre and then at garden is very memorable."
@@ -84,13 +78,11 @@
           "message": "Enjoyed visiting this place. It is a peaceful place. The teachings of Brahmakumaris are unique and invoke a sense of belonging to this universe and need of bringing discipline and simplicity to our life"
         }
       ]
-    ],
-    [
-      {
-        "name": "nakki lake",
-        "url": "http://img2.holidayiq.com/photos/mo/Mount-Abu-Photos-Nakki-Lake-Mount-Abu-AbbottMount-7590-0-jpg-destreviewimages-510x339-1324605853.jpg"
-      },
-      [
+    },
+    {
+      "name": "nakki lake",
+      "url": "http://img2.holidayiq.com/photos/mo/Mount-Abu-Photos-Nakki-Lake-Mount-Abu-AbbottMount-7590-0-jpg-destreviewimages-510x339-1324605853.jpg",
+      "tips": [
         {
           "url": "http://photo.webindia123.com/gallery/14042/picture%20392_Main.jpg",
           "message": "Nakki lake I very good place in mount Abu. Nice garden and nice lake. Parking facility is not good. Food are expansive. You can ride with boat in lake , if u want to ride your self so u can and staff also available for ride. Traditional cloth also available if u want to pic with traditional cloth so."
@@ -112,13 +104,11 @@
           "message": "We have been there for a night stay and we went along with family including kids. We enjoyed a lot as we went for boating, taken few good photos. All snacks available near the lake too, Good parking space available for car. It is always good to go in winter to enjoy thunder."
         }
       ]
-    ],
-    [
-      {
-        "name": "delwara jain temple",
-        "url": "http://www.esamskriti.com/photograph/jaisalmer-dilwara-temples-photo.jpg"
-      },
-      [
+    },
+    {
+      "name": "delwara jain temple",
+      "url": "http://www.esamskriti.com/photograph/jaisalmer-dilwara-temples-photo.jpg",
+      "tips": [
         {
           "url": "http://www.indianetzone.com/photos_gallery/56/Sculpture_of_Dilwara_Temple1.jpg",
           "message": "Visited the place and was delighted to see the carvings on marbles . It was an awesome experience. Although the better ones are found in modern temples like Akshardham temple in Delhi , however keeping into consideration that the temple was constructed in 11xx AD , it was a wonderful experience."
@@ -140,13 +130,11 @@
           "message": "Hard to imagine that the intricate carving and attention to detail was pristine. Unbelievable both historically & architecturally."
         }
       ]
-    ],
-    [
-      {
-        "name": "aadhar devi",
-        "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/bf/15/4b/adhar-devi-temple.jpg"
-      },
-      [
+    },
+    {
+      "name": "aadhar devi",
+      "url": "https://media-cdn.tripadvisor.com/media/photo-s/02/bf/15/4b/adhar-devi-temple.jpg",
+      "tips": [
         {
           "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/02/6d/13/adhar-devi-temple.jpg",
           "message": "Mount Abu is not very big, and has lot of temples, this is one of the prominent temple in the area. One has to climb lot of stairs to reach this temple, so be prepared for some exercise also. There are some good places to click pictures on the way. It is just ordinary temple, but can not be skipped."
@@ -168,13 +156,11 @@
           "message": "Morning is good time to visit the temple.You have to climb 360 stairs to reach the temple from parking.Do visit if you believe in god. Be careful from monkeys while climbing. You can also get nice view and photographs."
         }
       ]
-    ],
-    [
-      {
-        "name": "sankar math",
-        "url": "http://im.hunt.in/cg/Mount-Abu/City-Guide/Shivalaya-of-Sankar-Math.jpg"
-      },
-      [
+    },
+    {
+      "name": "sankar math",
+      "url": "http://im.hunt.in/cg/Mount-Abu/City-Guide/Shivalaya-of-Sankar-Math.jpg",
+      "tips": [
         {
           "url": "http://shankaramatha.org/images/Shivlinga.jpg",
           "message": "Shankar Math, one of the latest tourist attractions, is a magnificent monolith Shiva Linga of pink stone made 25 years back in tranquil ambience with an eco- friendly abbey, headed by His Holiness, the Very Rev. Swami Maheshanandji Giri."
@@ -196,7 +182,7 @@
           "message": "Students come from all over the globe to enrich themselves not only with fundamental education but also infuse themselves with spirituality and deep understanding of environment and the value to respect Mother Nature."
         }
       ]
-    ],
+    },
     {
       "name": "WelcomHeritage Connaught House",
       "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/b4/db/d2/connaught-house-mount.jpg"
