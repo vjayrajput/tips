@@ -1,7 +1,26 @@
 {
   "status": "success",
   "data": [
-    {
+    
+  {
+  "category_name": "Overcome Laziness",
+    "category_image": "https://pbs.twimg.com/media/B9vOWg8CYAIIRY0.jpg",
+  "category_read_more ": "http://lifestyle.allwomenstalk.com/tips-on-how-to-stop-being-lazy",
+
+  "tips": [
+    "Break down a task into smaller tasks We often avoid tasks because we find them too big, too overwhelming, too tiring, or taking too much of our time.",
+    "Rest, sleep and exercise In some cases, laziness is due to being tired and lacking energy. If this is true in your case, you need to give yourself the rest and sleep you need, and also give your body enough exercise and fresh air.",
+    "Motivation In some cases, the reason for laziness is due to lack of motivation. You can strengthen your motivation through affirmations, visualization and thinking about the importance of performing your task or chore or achieving your goal.",
+    "Think about benefits Think about the benefits you will gain if you overcome your laziness and take action, instead of thinking about the difficulties or obstacles.",
+    "Are U feel like this, LOL  This image :  http://goo.gl/7zb6N7 ",
+    "Don't Snooze the Alarm",
+    "No More Facebook or other social site its really affected.",
+    "http://media.infobarrel.com/media/image/48509_max.jpg",
+	"https://s-media-cache-ak0.pinimg.com/236x/c3/e0/a8/c3e0a804be2f3e3a9027e463078fb79c.jpg",
+	"This is image only for you : https://s-media-cache-ak0.pinimg.com/236x/c3/e0/a8/c3e0a804be2f3e3a9027e463078fb79c.jpg",
+    "Read more : http://lifestyle.allwomenstalk.com/tips-on-how-to-stop-being-lazy"
+  ]
+},  {
       "category_name": "Motorcycle safety tips for new riders",
       "category_image": "http://www.bikesindia.org/uploads/image/reviews/2015/jun/indian-traffic.jpg",
       "category_read_more": "http://www.consumerreports.org/cro/2013/04/10-motorcycle-safety-tips-for-new-riders/index.htm",
