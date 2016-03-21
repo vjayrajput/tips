@@ -1,26 +1,77 @@
 {
   "status": "success",
   "data": [
-    
-  {
-  "category_name": "Overcome Laziness",
-    "category_image": "https://pbs.twimg.com/media/B9vOWg8CYAIIRY0.jpg",
-  "category_read_more ": "http://lifestyle.allwomenstalk.com/tips-on-how-to-stop-being-lazy",
-
-  "tips": [
-    "Break down a task into smaller tasks We often avoid tasks because we find them too big, too overwhelming, too tiring, or taking too much of our time.",
-    "Rest, sleep and exercise In some cases, laziness is due to being tired and lacking energy. If this is true in your case, you need to give yourself the rest and sleep you need, and also give your body enough exercise and fresh air.",
-    "Motivation In some cases, the reason for laziness is due to lack of motivation. You can strengthen your motivation through affirmations, visualization and thinking about the importance of performing your task or chore or achieving your goal.",
-    "Think about benefits Think about the benefits you will gain if you overcome your laziness and take action, instead of thinking about the difficulties or obstacles.",
-    "Are U feel like this, LOL  This image :  http://goo.gl/7zb6N7 ",
-    "Don't Snooze the Alarm",
-    "No More Facebook or other social site its really affected.",
-    "http://media.infobarrel.com/media/image/48509_max.jpg",
-	"https://s-media-cache-ak0.pinimg.com/236x/c3/e0/a8/c3e0a804be2f3e3a9027e463078fb79c.jpg",
-	"This is image only for you : https://s-media-cache-ak0.pinimg.com/236x/c3/e0/a8/c3e0a804be2f3e3a9027e463078fb79c.jpg",
-    "Read more : http://lifestyle.allwomenstalk.com/tips-on-how-to-stop-being-lazy"
-  ]
-},  {
+    {
+      "category_name": "Ways to Communicate Better at Work",
+      "tips": [
+        "Listen - Most of us are terrible listeners. Instead of truly listening to what the person is saying, we interrupt, prepare our response, or think we already know what the speaker is going to say next. It's impossible to understand what someone needs or wants if we don't give them our undivided attention.",
+        "Pay attention to body language - Body language can tell you just as much as what a person says, if not more. Observe how they act when they talk. Is your co-worker saying she can meet a deadline, but wringing her hands while she says it? She might be afraid to tell you it will be hard to make the due date.",
+        "Consider communication preference. - Not everyone likes to communicate the same way. Email works for some, but others would rather pick up the phone and talk, text, or even use social media or instant messaging to relay something. Respect the person you're trying to contact and use the method she seems to prefer. If you've called a client several times and always get her voicemail, but she's always quick to respond to email, switch to email instead.",
+        "Consider your tone. - The problem with email and social media is that it can be difficult to determine the tone. You may mean something as a joke, but if it comes off pushy or angry, you could cause an unintended reaction from the recipient. Make sure your language is clear, and if you are angry, take a few minutes to cool down before you type. Better yet, meet in person so nothing is misconstrued.",
+        "Don't be too casual. - Getting along with your work colleagues can help you do your job better, but don't take it too far in your communication on the job. Keep the cursing for after hours, and make sure your emails, meetings, and phone calls are professional. Being too casual on the job may make others feel uncomfortable.",
+        "Check your grammar. - Spell check is your best friend on the job. Always proofread anything you type—be it an email, Tweet, or letter. If you're not great at catching errors, ask someone else to proof it for you.",
+        "Keep criticism constructive. - If you manage others, you want them to do their best. Work to ensure your comments aren't emotionally charged, and that the person you're speaking with grasps what you're trying to say when giving feedback. Provide positive reinforcement when a job is well-done, and find ways to add in tips for improvement without being \"that boss.\"",
+        "Restate what you hear. - Rephrasing what your co-worker or boss says to you by repeating the important points shows you are listening and understand what you were told. It gives both parties a chance to clarify if there is any confusion, and by repeating it, you'll remember.",
+        "Get a little personal. - People let their guards down when you talk about their lives outside of work. Ask about a co-worker's kid's soccer tournament. Find ways to interact on a personal level without going too far. You'll go a long way toward building trust.",
+        "Never stop improving. - Effective communication is a skill you must practice. Observe how others respond to your communication to clue you in on areas for improvement."
+      ]
+    },
+    {
+      "category_name": "Making New Friends",
+      "tips": [
+        "Accept all invitations, even if it doesn’t seem like the kind of event you’d enjoy. - You never know who you’ll meet!",
+        "Appreciate that friendships are built over time. - Don’t share major confidences too soon with a new friend. Pushing for intimacy may drive people away.",
+        "Accept that we’re all different. - Demanding that others share your beliefs and behaviours could limit the variety of friendships you make. ",
+        "Show that you are a trustworthy and positive friend. - Use optimistic and encouraging conversation and don’t gossip about others.",
+        "Take any opportunity to socialise. - Invite people to attend activities you have organised instead of always waiting to be asked.",
+        "Use your existing network of family and friends to meet new people. - Ask if you would be welcome to attend one of their social events.",
+        "Focus your attention on other people and outside interests. - Worrying about yourself and how you are feeling prevents you from connecting with others. ",
+        "Watch others who seem to make friends easily. - Adopt some of the same techniques they use. Confidence comes with practice, so give yourself a chance to rehearse.",
+        "Show you’re interested in others. - Ask questions about their life and interests. It will keep the conversation flowing.",
+        "Nurture old and new friendships. - Give people in your life the time and attention they deserve."
+      ]
+    },
+    {
+      "category_name": "Work Smarter, Not Harder - Time Management Tips",
+      "tips": [
+        "Complete most important tasks first.- This is the golden rule of time management. Each day, identify the two or three tasks that are the most crucial to complete, and do those first. Once you’re done, the day has already been a success. You can move on to other things, or you can let them wait until tomorrow. You’ve finished the essential.",
+        "Learn to say 'no'. - Making a lot of time commitments can teach us how to juggle various engagements and manage our time. This can be a great thing. However, you can easily take it too far. At some point, you need to learn to decline opportunities. Your objective should be to take on only those commitments that you know you have time for and that you truly care about. ",
+        "Sleep at least 7-8 hours. - Some people think sacrificing sleep is a good way to hack productivity and wring a couple extra hours out of the day. This is not the case. Most people need 7-8 hours of sleep for their bodies and minds to function optimally. You know if you’re getting enough. Listen to your body, and don’t underestimate the value of sleep.",
+        "Devote your entire focus to the task at hand. - Close out all other browser windows. Put your phone away, out of sight and on silent. Find a quiet place to work, or listen to some music if that helps you (I enjoy listening to classical or ambient music while writing sometimes). Concentrate on this one task. Nothing else should exist. Immerse yourself in it.",
+        "Don’t allow unimportant details to drag you down. We often allow projects to take much, much longer than they could by getting too hung up on small details. I’m guilty of this. I’ve always been a perfectionist.",
+        "Turn key tasks into habits.",
+        "Be conscientious of amount of TV/Internet/gaming time.",
+        "Leave a buffer-time between tasks. - When we rush from task to task, it’s difficult to appreciate what we’re doing and to stay focused and motivated. ",
+        "Don’t think of the totality of your to-do list. - One of the fastest ways to overwhelm yourself is to think about your massive to-do list. Realize that no amount of thought will make it any shorter.",
+        "Exercise and eat healthily.",
+        "Do something during waiting time. - We tend to have a lot of down-time where we don’t try to do much. Waiting rooms, lines at the store, time on the subway, on the elliptical at the gym, etc.",
+        "Lock yourself in. - No distractions, no excuses. Sometimes, the only way I’m going to get something done is if I’m under lock and key, alone in a room. If you’re like me, realize it, and act accordingly.",
+        "Commit to your plan to do something. - I kind of mentioned this already, but it’s worth repeating. Don’t flake on your own plan to do something!",
+        "Batch related tasks together. - Let’s say that over a given weekend you need to do two programming assignments, write three essays, and make two videos. Rather than approaching this work in whatever order you feel, group the like tasks and do them consecutively.",
+        "Find time for stillness. - In our go, go, go world, too many people don’t find time to just be still. Yet, it’s extraordinary what a stillness practice can do. Action and inaction should both play key roles in our lives.",
+        "Eliminate the non-essential. - I know this one has been mentioned in one capacity or another already, but it’s one of the most useful tips you can take away from this post.",
+        "See more at: http://www.creativitypost.com/create/work_smarter_not_harder_21_time_management_tips_to_hack_productivity#sthash.wtgO8mKl.dpuf"
+      ]
+    },
+    {
+      "category_name": "Overcome Laziness",
+      "category_image": "https://pbs.twimg.com/media/B9vOWg8CYAIIRY0.jpg",
+      "category_read_more ": "http://lifestyle.allwomenstalk.com/tips-on-how-to-stop-being-lazy",
+      "tips": [
+        "Break down a task into smaller tasks We often avoid tasks because we find them too big, too overwhelming, too tiring, or taking too much of our time.",
+        "Rest, sleep and exercise In some cases, laziness is due to being tired and lacking energy. If this is true in your case, you need to give yourself the rest and sleep you need, and also give your body enough exercise and fresh air.",
+        "Motivation In some cases, the reason for laziness is due to lack of motivation. You can strengthen your motivation through affirmations, visualization and thinking about the importance of performing your task or chore or achieving your goal.",
+        "Think about benefits Think about the benefits you will gain if you overcome your laziness and take action, instead of thinking about the difficulties or obstacles.",
+        "Are U feel like this, LOL  This image :  http://goo.gl/7zb6N7 ",
+        "Don't Snooze the Alarm",
+        "No More Facebook or other social site its really affected.",
+        "http://media.infobarrel.com/media/image/48509_max.jpg",
+        "https://s-media-cache-ak0.pinimg.com/236x/c3/e0/a8/c3e0a804be2f3e3a9027e463078fb79c.jpg",
+        "This is image only for you : https://s-media-cache-ak0.pinimg.com/236x/c3/e0/a8/c3e0a804be2f3e3a9027e463078fb79c.jpg",
+        "Read more : http://lifestyle.allwomenstalk.com/tips-on-how-to-stop-being-lazy"
+      ]
+    },
+    {
       "category_name": "Motorcycle safety tips for new riders",
       "category_image": "http://www.bikesindia.org/uploads/image/reviews/2015/jun/indian-traffic.jpg",
       "category_read_more": "http://www.consumerreports.org/cro/2013/04/10-motorcycle-safety-tips-for-new-riders/index.htm",
