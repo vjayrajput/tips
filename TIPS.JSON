@@ -1,5 +1,4 @@
 {
-  "status": "success",
   "data": [
     {
       "category_name": "Ways to Communicate Better at Work",
@@ -14,7 +13,8 @@
         "Restate what you hear. - Rephrasing what your co-worker or boss says to you by repeating the important points shows you are listening and understand what you were told. It gives both parties a chance to clarify if there is any confusion, and by repeating it, you'll remember.",
         "Get a little personal. - People let their guards down when you talk about their lives outside of work. Ask about a co-worker's kid's soccer tournament. Find ways to interact on a personal level without going too far. You'll go a long way toward building trust.",
         "Never stop improving. - Effective communication is a skill you must practice. Observe how others respond to your communication to clue you in on areas for improvement."
-      ]
+      ],
+      "category_image": "http://talkshop.ph/blog/wp-content/uploads/2014/04/tin-cans-telephone-work-588x352.jpg"
     },
     {
       "category_name": "Making New Friends",
@@ -29,7 +29,8 @@
         "Watch others who seem to make friends easily. - Adopt some of the same techniques they use. Confidence comes with practice, so give yourself a chance to rehearse.",
         "Show you’re interested in others. - Ask questions about their life and interests. It will keep the conversation flowing.",
         "Nurture old and new friendships. - Give people in your life the time and attention they deserve."
-      ]
+      ],
+      "category_image": "http://www.boundless.org/blog/wp-content/uploads/2015/12/friends1.jpg"
     },
     {
       "category_name": "Work Smarter, Not Harder - Time Management Tips",
@@ -51,7 +52,8 @@
         "Find time for stillness. - In our go, go, go world, too many people don’t find time to just be still. Yet, it’s extraordinary what a stillness practice can do. Action and inaction should both play key roles in our lives.",
         "Eliminate the non-essential. - I know this one has been mentioned in one capacity or another already, but it’s one of the most useful tips you can take away from this post.",
         "See more at: http://www.creativitypost.com/create/work_smarter_not_harder_21_time_management_tips_to_hack_productivity#sthash.wtgO8mKl.dpuf"
-      ]
+      ],
+      "category_image": "https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAJFAAAAJDFkNTRmZDExLTYxYjctNGI3MS04OWVmLTE3MmE2MjliYjY4Yw.jpg"
     },
     {
       "category_name": "Overcome Laziness",
@@ -82,8 +84,8 @@
         "Use your head. Yes, helmets are an emotional topic for some riders. But the facts show the risk. Riders without a helmet are 40 percent more likely to suffer a fatal head injury in a crash and are three times more likely to suffer brain injuries, than those with helmets, according to government studies.",
         "Wear the right gear. Jeans, a T-shirt, and sandals are recipes for a painful disaster on a bike. Instead, you want gear that will protect you from wind chill, flying bugs and debris, and, yes, lots of road rash if you should slide out. For maximum protection, go for a leather or other reinforced jacket, gloves, full pants, and over-the-ankle footwear, even in summer.",
         "Be defensive. A recent study by the University of South Florida’s Center for Urban Transportation Research found that in collisions involving a motorcycle and a car, car drivers were at fault 60 percent of the time.",
-        "So, you need to be extra alert, especially in this age of epidemic phone use and texting behind the wheel. Keep an eye out for cars suddenly changing lanes or pulling out from side streets. And don’t tailgate; keeping a safe following distance is critical, both to ensure you have enough stopping distance and so you have time to react to obstacles in the road. An object that a car might easily straddle could be a serious hazard when on a bike.",
         "Avoid bad weather. Slippery conditions reduce your margin for error. Rain not only cuts your visibility but reduces your tires’ grip on the road, which can make cornering tricky. If you need to ride in the rain, remember that the most dangerous time is right after precipitation begins, as the water can cause oil residue to rise to the top.",
+        "So, you need to be extra alert, especially in this age of epidemic phone use and texting behind the wheel. Keep an eye out for cars suddenly changing lanes or pulling out from side streets. And don’t tailgate; keeping a safe following distance is critical, both to ensure you have enough stopping distance and so you have time to react to obstacles in the road. An object that a car might easily straddle could be a serious hazard when on a bike.",
         "Read More http://www.consumerreports.org/cro/2013/04/10-motorcycle-safety-tips-for-new-riders/index.htm"
       ]
     },
@@ -859,5 +861,6 @@
         "Replace T-shirts with Polos and Sport Shirts - Wearing T-shirts to the gym or when you are performing house chores is fine. But wearing T-shirts to social events or to work is a no-no, especially when the shirt is too big and made from a shoddy fabric advertising the company who gave it to you a decade ago. A good polo in a simple, dark color is always presentable and always flattering if it’s fitted well."
       ]
     }
-  ]
+  ],
+  "status": "success"
 }
